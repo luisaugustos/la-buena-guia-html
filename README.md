@@ -10,7 +10,7 @@
 
 ## :computer: About
 
-La Guía Estelar de HTML5 es un repositorio que se realizó a través de los estudios de Discover de Rocketseat y está pensado para ayudar a las personas que se están iniciando en el mundo del desarrollo web, y necesitan algunas enseñanzas básicas para tener una base en el desarrollo.
+La Guía Estelar de HTML5 es un repositorio que se realizó a través de los estudios de Rocketseat y está pensado para ayudar a las personas que se están iniciando en el mundo del desarrollo web, y necesitan algunas enseñanzas básicas para tener una base en el desarrollo.
 
  ## :airplane: Summary
 
